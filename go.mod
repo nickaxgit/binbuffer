@@ -1,3 +1,3 @@
-module binbuffer.mightymushrooms.co.uk
+module binbuffer
 
 go 1.22.4
